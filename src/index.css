@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./fonts/Montserrat-VF.woff2') format('woff2');
+  font-display: swap;
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
