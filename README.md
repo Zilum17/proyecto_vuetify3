@@ -1,5 +1,7 @@
 # proyecto_vuetify3
 
+create conection with your firebase database in src/firebase/firebase.js
+
 ## Project setup
 ```
 pnpm install
